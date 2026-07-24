@@ -1,0 +1,7 @@
+streamlit
+cohere
+sentence-transformers
+langchain-text-splitters
+pypdf
+numpy
+scikit-learn
